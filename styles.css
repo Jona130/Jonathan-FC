@@ -7,5 +7,13 @@
 .container {
   width: 100vw;
   height: 100vh;
-  background-image: url(images/background.png);
+  background-image: url(https://stackblitz.com/files/web-platform-28zrfr/github/Jona130/Jonathan-FC/master/background.png);
+  background-position: center;
+  background-size: cover;
+  padding: 0 8%;
+}
+.logo {
+  width: 120px;
+  padding: 20px 0;
+  cursor: pointer;
 }
